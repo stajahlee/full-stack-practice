@@ -1,0 +1,23 @@
+{
+  "name": "full-stack-practice",
+  "version": "0.0.1",
+  "description": "practicing making a full stack website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stajahlee/full-stack-practice.git"
+  },
+  "author": "stajah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stajahlee/full-stack-practice/issues"
+  },
+  "homepage": "https://github.com/stajahlee/full-stack-practice#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
